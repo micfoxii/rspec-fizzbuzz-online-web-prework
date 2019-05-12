@@ -5,7 +5,7 @@ fizz_4=fizzbuzz(4)
 
 def fizzbuzz
   if fizz_3%3==0
-    def fizzbuzz(number=3)
+    puts "Fizz"
 end
 end
   # Don't forget! This file needs to be 'required' in its spec file
