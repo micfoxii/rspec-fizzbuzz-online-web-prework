@@ -1,5 +1,5 @@
-def fizzbuzz
-  if fizzbuzz%3==0
+fizzbuzz=Integer
+  if Integer%3==0
     puts "Fizz"
 end
 end
