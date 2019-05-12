@@ -1,4 +1,5 @@
-fizzbuzz=3
+
+def fizzbuzz
   if #{"number"}%3==0
     def fizzbuzz(number=3)
 end
