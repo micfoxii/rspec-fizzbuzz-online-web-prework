@@ -1,4 +1,6 @@
-
+fizz_3=fizzbuzz(3)
+fizz_5=fizzbuzz(5)
+fizz_
 def fizzbuzz
   if #{"number"}%3==0
     def fizzbuzz(number=3)
